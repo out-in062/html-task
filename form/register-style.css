@@ -1,0 +1,22 @@
+.required-label p1 {
+    background-color: #ff0000; 
+    color: #ffffff; 
+    padding: 2px 4px; 
+    border-radius: 4px; 
+}
+
+.left-align-text {
+    text-align: left;
+}
+
+.top-align-text {
+    vertical-align: top;
+}
+
+
+body{
+    background-image: url(img/suiteki.jpg);
+        background-size: cover; 
+        background-position: center center; 
+        background-repeat: no-repeat; 
+    }

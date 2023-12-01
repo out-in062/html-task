@@ -1,0 +1,51 @@
+h1 {
+    text-align: center;
+}
+
+a {
+    width: 150px;
+    height: 40px;
+    background-color: #3498db;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    margin: 0 auto;
+}
+
+.center {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    background-color: aqua;
+    padding: 20px;
+}
+
+.hurui, .sin {
+    margin: 20px;
+    border: 1px solid #fbfbfb;
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.hurui h2, .sin h2 {
+    width: 90%; /* 横幅 */
+    text-align: center;
+}
+
+.p {
+    text-align: left;
+    width: 90%; /* 横幅 */
+}
