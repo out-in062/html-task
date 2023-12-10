@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #333;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.moji{
+    padding: 20px;
+}
+
+.sait{
+    padding: 20px;
+}
+
+li {
+    margin-right: 20px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+div {
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
