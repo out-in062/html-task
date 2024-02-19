@@ -44,6 +44,10 @@ body, h1, h2, p, ul, li {
   margin-top: 60px; 
 }
 
+.menu a:hover {
+  color: #ff0000;
+}
+
 /*footer*/
 .footer {
   position: fixed; 
